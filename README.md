@@ -24,7 +24,7 @@ O resultado das análises será utilizado pelas agências para apoiar a implemen
 Classifique os feedbacks por:
 
 - Agência
-- Grau de satisfação (quanto menor a nota, maior a urgência)
+- Grau de satisfação (quanto menor a nota, maior a urgência), de 1 a 2 ruim, = 3 mediano, 4 ou 5 bom.
 - Tema
 
 ### 2. Identificação dos Principais Insights
